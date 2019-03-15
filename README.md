@@ -5,6 +5,7 @@ This is an application for Creating, Retrieving, Updating and Deleting Phone rec
 # Build
 
 -Clone the repository
+
 -Cd *root* directory and perform `npm install`
 
 # Techstack
